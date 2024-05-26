@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 python3.10 $PYFILE
 
 
+=======
+python3.4 $PYFILE
+>>>>>>> d01475558687a4bff304ffdc90b7fed1285d66ef
